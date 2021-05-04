@@ -18,13 +18,12 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * JUnit test case for the {@link Queue} interface and its
- * implementations ({@link CircularLinkedQueue} in this case).
+ * JUnit test case for the {@link CircularLinkedQueue} class.
  *
  * @author Antonio F. Huertas {@literal <antonio.huertas@upr.edu>}
  * @author Luis J. Berríos Negrón
  */
-public class QueueTest {
+public class CircularLinkedQueueTest {
 
     /**
      * Reference to class under test
